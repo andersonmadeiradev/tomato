@@ -1,0 +1,19 @@
+#drawing_area {
+  border: 1px dashed gray;
+  cursor: default;
+}
+
+header, section, footer, aside, nav, article, figure {
+    display: block; 
+}
+
+aside {
+    width: 90px;  
+    background: #eee; 
+    float: left; 
+    padding: 0px;
+    margin: 0px;
+    margin-right: 10px;
+}
+
+header {height: 100px;}
